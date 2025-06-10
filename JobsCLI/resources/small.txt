@@ -1,0 +1,59 @@
+1 Dubai - 111392
+2 Berlin - 93028
+3 London - 91567
+4 Paris - 98210
+5 Dubai - 81794
+6 New York - 84272
+7 San Francisco - 112988
+8 Dubai - 101463
+9 New York - 103458
+10 Paris - 103181
+11 New York - 111957
+12 San Francisco - 89146
+13 London - 125456
+14 San Francisco - 124900
+15 Sydney - 93833
+16 Dubai - 89411
+17 Singapore - 100703
+18 New York - 117224
+19 Singapore - 99372
+20 New York - 84526
+21 Singapore - 104922
+22 Sydney - 57499
+23 Singapore - 61885
+24 Toronto - 72672
+25 Tokyo - 117937
+26 San Francisco - 82828
+27 Tokyo - 122683
+28 Sydney - 82017
+29 London - 114958
+30 Sydney - 96128
+31 Dubai - 116995
+32 London - 98411
+33 Dubai - 101601
+34 Singapore - 92037
+35 New York - 61370
+36 Singapore - 101945
+37 Tokyo - 93295
+38 Sydney - 89454
+39 Singapore - 90775
+40 Singapore - 90737
+41 Sydney - 97812
+42 Tokyo - 99785
+43 Sydney - 140476
+44 San Francisco - 103952
+45 San Francisco - 107852
+46 London - 82223
+47 Singapore - 111093
+48 New York - 90054
+49 Singapore - 116857
+50 London - 86925
+51 London - 85218
+52 Tokyo - 101388
+53 New York - 101228
+54 London - 46868
+55 Paris - 94357
+56 Paris - 77223
+57 San Francisco - 112378
+58 Berlin - 113977
+59 London - 119795

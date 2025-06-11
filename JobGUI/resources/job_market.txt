@@ -1,0 +1,501 @@
+AIAdoptionLevel;AutomationRisk;CompanySize;IndustryID;IndustryName;JobGrowthProjection;JobRole;Location;RemoteFriendly;RequiredSkill_ID;RequiredSkillName;SalaryUSD
+Medium;High;Small;3;Entertainment;Growth;Cybersecurity Analyst;Dubai;Yes;10;UX/UI Design;111392,165243159
+Medium;High;Large;8;Technology;Decline;Marketing Specialist;Singapore;No;6;Marketing;93792,562466109
+Medium;High;Large;8;Technology;Growth;AI Researcher;Singapore;Yes;10;UX/UI Design;107170,263068949
+Low;High;Small;7;Retail;Growth;Sales Manager;Berlin;No;7;Project Management;93027,953757864
+Low;Low;Small;3;Entertainment;Decline;Cybersecurity Analyst;Tokyo;Yes;4;JavaScript;87752,922170592
+Medium;Medium;Large;1;Education;Growth;UX Designer;San Francisco;No;2;Cybersecurity;102825,007866567
+Low;High;Medium;4;Finance;Growth;HR Manager;Singapore;Yes;9;Sales;102065,720673475
+Medium;Low;Small;8;Technology;Decline;Cybersecurity Analyst;Dubai;Yes;5;Machine Learning;86607,317618097
+High;Low;Large;7;Retail;Stable;AI Researcher;London;No;4;JavaScript;75015,860845715
+High;Low;Medium;3;Entertainment;Decline;Sales Manager;Singapore;Yes;2;Cybersecurity;96834,578294809
+High;High;Small;4;Finance;Growth;Marketing Specialist;London;Yes;8;Python;91566,973379252
+Medium;High;Medium;3;Entertainment;Growth;AI Researcher;Singapore;No;10;UX/UI Design;78902,565744585
+High;Medium;Large;10;Transportation;Growth;AI Researcher;San Francisco;Yes;8;Python;73151,990349264
+Low;High;Small;7;Retail;Decline;HR Manager;Paris;Yes;2;Cybersecurity;98209,516877889
+High;High;Medium;4;Finance;Growth;Product Manager;Singapore;Yes;4;JavaScript;101001,901140553
+High;Low;Small;9;Telecommunications;Growth;Sales Manager;Dubai;No;10;UX/UI Design;82799,357706903
+High;Medium;Medium;6;Manufacturing;Decline;Software Engineer;Singapore;No;5;Machine Learning;78401,259281741
+Low;High;Large;6;Manufacturing;Stable;AI Researcher;Tokyo;No;7;Project Management;73394,896219256
+Medium;High;Large;4;Finance;Stable;Product Manager;San Francisco;Yes;10;UX/UI Design;97645,098782898
+Low;Low;Small;3;Entertainment;Growth;Software Engineer;Dubai;Yes;10;UX/UI Design;73920,458527185
+Medium;Low;Medium;7;Retail;Decline;Sales Manager;Sydney;Yes;4;JavaScript;134822,691380414
+Medium;High;Small;6;Manufacturing;Growth;Data Scientist;Dubai;Yes;4;JavaScript;81794,371280580
+High;Medium;Small;7;Retail;Decline;UX Designer;Tokyo;No;2;Cybersecurity;41495,714442548
+Medium;Medium;Medium;6;Manufacturing;Decline;Product Manager;Paris;Yes;3;Data Analysis;89396,566667417
+Low;Low;Medium;10;Transportation;Stable;Operations Manager;San Francisco;Yes;10;UX/UI Design;88539,330403624
+Low;Low;Medium;3;Entertainment;Stable;Data Scientist;Sydney;Yes;9;Sales;112234,371350483
+Medium;High;Large;10;Transportation;Decline;UX Designer;Tokyo;No;10;UX/UI Design;95762,524734554
+High;Low;Small;6;Manufacturing;Growth;HR Manager;Tokyo;Yes;2;Cybersecurity;73323,296331204
+High;High;Small;9;Telecommunications;Stable;Cybersecurity Analyst;New York;Yes;6;Marketing;84272,162530064
+Low;Medium;Large;9;Telecommunications;Growth;Marketing Specialist;San Francisco;Yes;8;Python;96548,395433020
+High;Medium;Medium;10;Transportation;Stable;Operations Manager;Dubai;Yes;7;Project Management;46705,714993792
+Medium;High;Large;9;Telecommunications;Stable;HR Manager;London;Yes;3;Data Analysis;116772,434687809
+Medium;Low;Large;6;Manufacturing;Growth;Sales Manager;Paris;No;5;Machine Learning;73376,602283907
+Low;Medium;Large;4;Finance;Stable;HR Manager;London;Yes;5;Machine Learning;118340,876418952
+Medium;Low;Small;10;Transportation;Stable;Cybersecurity Analyst;Dubai;Yes;5;Machine Learning;97849,302822532
+Low;Medium;Large;5;Healthcare;Growth;Sales Manager;Dubai;Yes;4;JavaScript;102591,882727879
+Medium;High;Small;3;Entertainment;Stable;Operations Manager;San Francisco;Yes;5;Machine Learning;112988,468720025
+Low;High;Small;9;Telecommunications;Stable;Cybersecurity Analyst;Dubai;Yes;7;Project Management;101462,641053849
+High;High;Small;9;Telecommunications;Stable;Software Engineer;New York;Yes;8;Python;103457,724326349
+Medium;Medium;Medium;8;Technology;Growth;Marketing Specialist;Sydney;Yes;5;Machine Learning;86711,671190772
+Medium;Low;Small;1;Education;Decline;Operations Manager;Dubai;Yes;10;UX/UI Design;97443,373629442
+Low;Low;Small;10;Transportation;Growth;Software Engineer;London;Yes;10;UX/UI Design;78250,043700565
+Low;Low;Medium;2;Energy;Decline;UX Designer;Dubai;Yes;4;JavaScript;83131,778008241
+Medium;Medium;Small;9;Telecommunications;Stable;Operations Manager;New York;No;7;Project Management;129293,900959378
+Low;Medium;Large;3;Entertainment;Decline;UX Designer;Singapore;No;8;Python;73836,128298992
+Medium;Medium;Large;5;Healthcare;Growth;Sales Manager;Singapore;No;3;Data Analysis;93086,342532726
+High;Medium;Small;9;Telecommunications;Growth;Software Engineer;Tokyo;No;2;Cybersecurity;92269,380734310
+Low;Medium;Medium;5;Healthcare;Stable;Marketing Specialist;Paris;Yes;8;Python;83784,910564384
+Medium;Low;Large;6;Manufacturing;Decline;Cybersecurity Analyst;Berlin;No;2;Cybersecurity;100288,018731408
+High;Medium;Medium;6;Manufacturing;Stable;AI Researcher;Sydney;No;6;Marketing;101794,441854827
+High;Medium;Medium;1;Education;Stable;HR Manager;Toronto;Yes;2;Cybersecurity;71483,616337048
+Medium;Low;Large;4;Finance;Growth;Data Scientist;Tokyo;No;9;Sales;92027,134230931
+Low;Medium;Medium;2;Energy;Decline;Marketing Specialist;Paris;No;10;UX/UI Design;68352,653224553
+Medium;Low;Large;8;Technology;Decline;Software Engineer;Singapore;Yes;7;Project Management;105770,972366346
+High;Low;Medium;1;Education;Decline;AI Researcher;London;Yes;1;Communication;93529,746207253
+Medium;High;Large;7;Retail;Decline;Marketing Specialist;Toronto;Yes;4;JavaScript;91646,597734342
+Low;High;Small;8;Technology;Stable;Software Engineer;Paris;No;9;Sales;103180,626977448
+High;High;Large;10;Transportation;Stable;Product Manager;Paris;No;2;Cybersecurity;84489,794190632
+Medium;High;Large;3;Entertainment;Growth;Product Manager;Tokyo;Yes;5;Machine Learning;108280,439184364
+Low;Medium;Large;7;Retail;Stable;UX Designer;Toronto;Yes;7;Project Management;71031,102544877
+High;High;Large;7;Retail;Stable;Marketing Specialist;San Francisco;No;9;Sales;118237,530377890
+Low;Low;Medium;1;Education;Growth;Product Manager;Berlin;Yes;4;JavaScript;78981,776348903
+High;Medium;Small;4;Finance;Growth;Software Engineer;San Francisco;No;10;UX/UI Design;56076,418646088
+Medium;High;Large;1;Education;Growth;UX Designer;Toronto;Yes;7;Project Management;83429,301830745
+Low;Low;Medium;10;Transportation;Stable;Software Engineer;San Francisco;Yes;4;JavaScript;81160,636054916
+High;Medium;Small;9;Telecommunications;Stable;UX Designer;New York;No;6;Marketing;83278,520276999
+Low;Medium;Small;9;Telecommunications;Growth;Marketing Specialist;Singapore;Yes;6;Marketing;94632,960309680
+Low;High;Small;4;Finance;Growth;AI Researcher;New York;Yes;4;JavaScript;111956,847217765
+Medium;Medium;Small;10;Transportation;Growth;Cybersecurity Analyst;Dubai;Yes;9;Sales;86165,881722057
+Low;Low;Large;4;Finance;Stable;Operations Manager;San Francisco;No;7;Project Management;76167,648603622
+High;Medium;Large;5;Healthcare;Stable;AI Researcher;Dubai;Yes;9;Sales;67469,063754324
+High;Low;Medium;9;Telecommunications;Decline;Sales Manager;London;Yes;3;Data Analysis;80636,344173819
+High;Medium;Medium;7;Retail;Stable;Software Engineer;Sydney;Yes;2;Cybersecurity;52243,503214993
+High;High;Medium;2;Energy;Stable;Sales Manager;London;Yes;3;Data Analysis;75497,338129673
+Medium;Low;Small;3;Entertainment;Stable;AI Researcher;Toronto;Yes;6;Marketing;114881,077917243
+Low;Medium;Small;10;Transportation;Growth;UX Designer;Paris;Yes;10;UX/UI Design;73532,815908432
+Medium;Medium;Large;8;Technology;Stable;Operations Manager;Singapore;No;8;Python;102574,317216006
+Low;Medium;Small;4;Finance;Growth;Operations Manager;San Francisco;No;2;Cybersecurity;65470,358203830
+Low;Low;Small;3;Entertainment;Decline;Data Scientist;Tokyo;Yes;6;Marketing;125421,917986211
+Low;Low;Small;8;Technology;Decline;Operations Manager;Sydney;No;9;Sales;126752,134661294
+Medium;Low;Medium;3;Entertainment;Growth;Cybersecurity Analyst;Berlin;No;9;Sales;101820,431131197
+Low;High;Medium;2;Energy;Growth;Operations Manager;Berlin;Yes;9;Sales;129825,052032870
+Medium;High;Large;8;Technology;Growth;AI Researcher;Berlin;No;10;UX/UI Design;97115,859498553
+High;Low;Small;1;Education;Stable;Data Scientist;San Francisco;No;3;Data Analysis;105370,342282991
+High;Medium;Small;6;Manufacturing;Decline;AI Researcher;Berlin;No;8;Python;115238,677534630
+Low;High;Large;1;Education;Growth;AI Researcher;New York;No;9;Sales;93594,369061969
+Medium;Low;Small;9;Telecommunications;Stable;HR Manager;Sydney;No;1;Communication;58952,450768299
+High;Medium;Small;6;Manufacturing;Decline;Data Scientist;New York;No;2;Cybersecurity;105779,267104687
+Medium;High;Medium;1;Education;Stable;AI Researcher;Paris;No;7;Project Management;80562,808111331
+Medium;Medium;Large;6;Manufacturing;Decline;HR Manager;Sydney;No;1;Communication;82049,403580891
+Low;Medium;Large;6;Manufacturing;Stable;HR Manager;New York;Yes;8;Python;95957,898329574
+High;Medium;Large;7;Retail;Decline;Data Scientist;Sydney;Yes;10;UX/UI Design;101325,617594347
+Low;Medium;Large;4;Finance;Decline;Sales Manager;Paris;No;8;Python;93002,692680124
+Low;High;Medium;4;Finance;Stable;UX Designer;Dubai;No;7;Project Management;102714,590723146
+High;High;Medium;7;Retail;Growth;Cybersecurity Analyst;San Francisco;Yes;2;Cybersecurity;75862,857318796
+High;High;Small;3;Entertainment;Decline;UX Designer;San Francisco;No;7;Project Management;89145,924105534
+Medium;Low;Small;5;Healthcare;Growth;Operations Manager;Berlin;No;4;JavaScript;106981,709009017
+High;High;Small;3;Entertainment;Stable;Cybersecurity Analyst;London;Yes;2;Cybersecurity;125455,823528734
+Medium;Medium;Small;8;Technology;Growth;Operations Manager;Berlin;Yes;8;Python;132528,711779464
+Medium;High;Medium;8;Technology;Growth;AI Researcher;Toronto;Yes;9;Sales;98659,533654555
+Medium;Medium;Large;6;Manufacturing;Growth;Software Engineer;New York;No;8;Python;106800,196534912
+High;Low;Medium;1;Education;Growth;Data Scientist;Sydney;No;8;Python;129631,583296303
+Low;Medium;Small;1;Education;Growth;Cybersecurity Analyst;London;Yes;2;Cybersecurity;76583,279265330
+Medium;Medium;Medium;4;Finance;Decline;Cybersecurity Analyst;Paris;Yes;4;JavaScript;102593,997054251
+Low;Medium;Large;10;Transportation;Decline;AI Researcher;Toronto;No;8;Python;105366,858989722
+Low;Low;Large;3;Entertainment;Decline;Sales Manager;Paris;Yes;1;Communication;118957,228721534
+High;High;Medium;9;Telecommunications;Stable;HR Manager;San Francisco;No;6;Marketing;67257,172389276
+Low;High;Medium;2;Energy;Growth;AI Researcher;San Francisco;No;5;Machine Learning;71211,884323990
+Low;Low;Medium;1;Education;Decline;Product Manager;Berlin;Yes;5;Machine Learning;90427,644222094
+High;Medium;Small;2;Energy;Stable;HR Manager;New York;Yes;8;Python;97554,553246433
+Medium;High;Medium;6;Manufacturing;Decline;Data Scientist;London;No;1;Communication;112457,279074676
+Low;Low;Medium;2;Energy;Decline;HR Manager;Singapore;Yes;9;Sales;100350,875516245
+High;High;Medium;9;Telecommunications;Growth;Sales Manager;Toronto;Yes;10;UX/UI Design;86971,735397794
+Low;Low;Large;7;Retail;Stable;HR Manager;Toronto;Yes;10;UX/UI Design;98329,228895123
+Low;Medium;Large;9;Telecommunications;Growth;Data Scientist;Berlin;Yes;2;Cybersecurity;96020,889525489
+Medium;High;Small;2;Energy;Growth;Sales Manager;San Francisco;No;5;Machine Learning;124900,328599755
+Low;Low;Small;9;Telecommunications;Decline;UX Designer;Berlin;No;8;Python;93313,178871371
+High;High;Large;5;Healthcare;Growth;Cybersecurity Analyst;Sydney;No;10;UX/UI Design;82338,331728949
+Low;High;Large;6;Manufacturing;Stable;Cybersecurity Analyst;London;No;8;Python;98992,180601437
+Medium;High;Large;3;Entertainment;Growth;Operations Manager;New York;Yes;2;Cybersecurity;93969,706386771
+Medium;High;Medium;7;Retail;Growth;UX Designer;Dubai;Yes;5;Machine Learning;58580,132886507
+High;Low;Medium;1;Education;Growth;UX Designer;Tokyo;No;7;Project Management;89686,958767557
+Medium;Medium;Large;8;Technology;Decline;HR Manager;Tokyo;No;6;Marketing;87985,235091880
+Low;Low;Medium;3;Entertainment;Stable;Cybersecurity Analyst;Berlin;Yes;6;Marketing;79122,562684414
+Medium;Low;Medium;8;Technology;Decline;Data Scientist;Sydney;No;10;UX/UI Design;110711,665752459
+High;Low;Small;6;Manufacturing;Decline;Marketing Specialist;London;No;6;Marketing;74286,408067760
+Medium;Medium;Large;7;Retail;Decline;Marketing Specialist;Singapore;Yes;7;Project Management;99112,372390491
+Medium;High;Large;4;Finance;Decline;Sales Manager;Tokyo;No;8;Python;87042,860003125
+Medium;High;Medium;1;Education;Decline;Cybersecurity Analyst;London;Yes;2;Cybersecurity;92153,900112936
+High;High;Large;5;Healthcare;Stable;Cybersecurity Analyst;New York;Yes;7;Project Management;98235,725820917
+Medium;Medium;Small;4;Finance;Growth;Marketing Specialist;Paris;No;2;Cybersecurity;63848,512322180
+Medium;High;Small;6;Manufacturing;Decline;Cybersecurity Analyst;Sydney;Yes;2;Cybersecurity;93833,217834696
+Low;Medium;Small;3;Entertainment;Decline;HR Manager;San Francisco;No;5;Machine Learning;135778,949794264
+High;High;Large;5;Healthcare;Stable;Product Manager;London;Yes;8;Python;58864,733082426
+Medium;High;Large;9;Telecommunications;Stable;Software Engineer;New York;No;1;Communication;88847,840725690
+High;Low;Large;2;Energy;Growth;UX Designer;Singapore;No;6;Marketing;112464,786496476
+Medium;Medium;Large;5;Healthcare;Stable;Operations Manager;Dubai;No;1;Communication;96032,384959072
+Medium;Low;Large;6;Manufacturing;Growth;Sales Manager;San Francisco;Yes;5;Machine Learning;103759,339042320
+Medium;Low;Small;10;Transportation;Decline;Product Manager;Dubai;Yes;2;Cybersecurity;42486,679778148
+Low;Low;Medium;2;Energy;Decline;Marketing Specialist;Singapore;No;10;UX/UI Design;101964,987492599
+Low;Medium;Small;8;Technology;Growth;UX Designer;New York;Yes;6;Marketing;74766,235875328
+Low;Medium;Large;1;Education;Stable;Cybersecurity Analyst;Tokyo;No;6;Marketing;96197,545691663
+High;High;Small;8;Technology;Growth;Operations Manager;Dubai;No;8;Python;89411,305381810
+High;Low;Large;5;Healthcare;Stable;Cybersecurity Analyst;San Francisco;Yes;4;JavaScript;135566,660583232
+Low;High;Large;8;Technology;Decline;Data Scientist;Berlin;No;3;Data Analysis;100933,906475317
+High;Low;Small;6;Manufacturing;Stable;Data Scientist;Toronto;Yes;3;Data Analysis;87747,523414744
+Medium;Medium;Large;9;Telecommunications;Growth;Operations Manager;London;No;3;Data Analysis;59806,144814929
+Medium;Medium;Medium;3;Entertainment;Growth;Operations Manager;Tokyo;Yes;4;JavaScript;92422,938036998
+Medium;Medium;Large;1;Education;Decline;Marketing Specialist;Dubai;No;8;Python;106464,577566936
+Low;Low;Medium;8;Technology;Stable;Operations Manager;Paris;No;4;JavaScript;88388,962163616
+High;Medium;Medium;8;Technology;Stable;HR Manager;London;Yes;3;Data Analysis;79886,872801251
+Low;Low;Large;5;Healthcare;Stable;Cybersecurity Analyst;Berlin;No;5;Machine Learning;78548,266723074
+High;High;Small;3;Entertainment;Decline;Product Manager;Singapore;No;7;Project Management;100702,828709106
+Medium;Low;Medium;4;Finance;Stable;AI Researcher;Toronto;Yes;2;Cybersecurity;105187,758786183
+Low;High;Small;8;Technology;Growth;Operations Manager;New York;No;4;JavaScript;117224,202306422
+High;Low;Medium;6;Manufacturing;Stable;Sales Manager;Berlin;Yes;8;Python;70100,002135793
+High;High;Large;10;Transportation;Decline;Data Scientist;Berlin;No;8;Python;100519,551168352
+Medium;Medium;Large;1;Education;Stable;HR Manager;Singapore;Yes;1;Communication;87565,920911643
+Low;High;Medium;8;Technology;Stable;UX Designer;Sydney;No;7;Project Management;88155,315907334
+Low;Medium;Large;6;Manufacturing;Growth;AI Researcher;Singapore;No;10;UX/UI Design;98036,517080680
+Low;Medium;Medium;6;Manufacturing;Stable;Product Manager;Sydney;No;6;Marketing;98153,125072499
+Medium;High;Large;1;Education;Growth;AI Researcher;Sydney;Yes;3;Data Analysis;100575,362115831
+Low;Low;Small;4;Finance;Growth;Operations Manager;Tokyo;Yes;10;UX/UI Design;68850,576156084
+Medium;Low;Large;6;Manufacturing;Decline;Marketing Specialist;Tokyo;Yes;1;Communication;75003,771856671
+Medium;Low;Small;10;Transportation;Growth;Data Scientist;San Francisco;Yes;3;Data Analysis;119717,365510353
+Medium;Low;Large;6;Manufacturing;Growth;Data Scientist;Dubai;No;7;Project Management;85588,550650383
+High;Low;Small;6;Manufacturing;Decline;UX Designer;Dubai;No;1;Communication;96120,287960358
+Low;Medium;Large;6;Manufacturing;Growth;Marketing Specialist;New York;Yes;3;Data Analysis;111093,326240863
+Low;Low;Small;9;Telecommunications;Decline;Cybersecurity Analyst;Dubai;Yes;7;Project Management;99268,861447216
+Medium;Medium;Medium;9;Telecommunications;Stable;Software Engineer;Tokyo;Yes;9;Sales;100930,452619440
+Medium;Medium;Medium;4;Finance;Decline;HR Manager;San Francisco;No;10;UX/UI Design;107891,553584875
+Low;Medium;Small;8;Technology;Growth;Data Scientist;San Francisco;Yes;10;UX/UI Design;47666,724782060
+Medium;High;Large;6;Manufacturing;Decline;Sales Manager;Sydney;Yes;6;Marketing;80200,996896789
+Low;High;Small;3;Entertainment;Growth;Data Scientist;Singapore;No;7;Project Management;99372,115929992
+High;Medium;Large;8;Technology;Stable;AI Researcher;New York;No;4;JavaScript;117752,886141153
+Medium;High;Medium;4;Finance;Decline;Data Scientist;Sydney;Yes;9;Sales;91321,911193115
+Low;Low;Large;7;Retail;Stable;Data Scientist;Singapore;No;5;Machine Learning;73105,670764878
+Medium;Low;Medium;8;Technology;Growth;Software Engineer;Dubai;Yes;3;Data Analysis;73638,279007790
+Low;Medium;Large;8;Technology;Growth;Software Engineer;Sydney;No;9;Sales;107677,224069061
+Low;Low;Large;2;Energy;Stable;Product Manager;London;Yes;7;Project Management;85644,528352162
+Medium;Medium;Large;5;Healthcare;Decline;Cybersecurity Analyst;Dubai;Yes;2;Cybersecurity;89855,999084193
+High;Medium;Small;2;Energy;Decline;Sales Manager;Singapore;Yes;3;Data Analysis;102300,603875446
+Low;Low;Small;10;Transportation;Growth;Data Scientist;New York;Yes;8;Python;31969,526346128
+Low;High;Medium;9;Telecommunications;Stable;Data Scientist;Singapore;No;10;UX/UI Design;130007,350230161
+Low;Low;Medium;9;Telecommunications;Stable;HR Manager;Sydney;No;7;Project Management;75378,523298979
+High;Low;Small;5;Healthcare;Decline;Software Engineer;Sydney;No;8;Python;94838,727389471
+High;Medium;Medium;1;Education;Decline;Sales Manager;Berlin;No;6;Marketing;55906,059730075
+Medium;Medium;Small;1;Education;Decline;UX Designer;New York;Yes;1;Communication;81549,177791899
+High;Medium;Large;4;Finance;Stable;Product Manager;Paris;Yes;5;Machine Learning;114893,760927301
+Medium;Medium;Medium;5;Healthcare;Decline;Cybersecurity Analyst;Dubai;No;5;Machine Learning;51676,656406682
+Medium;High;Medium;8;Technology;Decline;Marketing Specialist;San Francisco;No;8;Python;112524,001743782
+High;High;Small;1;Education;Growth;Cybersecurity Analyst;New York;No;10;UX/UI Design;84526,078075352
+Medium;High;Medium;6;Manufacturing;Decline;AI Researcher;San Francisco;No;6;Marketing;99743,288804404
+High;Medium;Medium;3;Entertainment;Decline;Data Scientist;New York;No;2;Cybersecurity;103150,488269702
+Medium;Medium;Large;8;Technology;Stable;Product Manager;New York;Yes;10;UX/UI Design;98828,429989819
+High;Medium;Medium;10;Transportation;Stable;AI Researcher;Singapore;Yes;9;Sales;72700,986967383
+High;High;Large;6;Manufacturing;Growth;Sales Manager;New York;Yes;5;Machine Learning;82709,017069300
+Medium;Medium;Small;6;Manufacturing;Decline;Marketing Specialist;Berlin;No;9;Sales;60768,876454984
+Low;Low;Medium;5;Healthcare;Growth;Software Engineer;Paris;No;3;Data Analysis;99835,926631762
+Medium;Low;Large;4;Finance;Stable;Product Manager;Sydney;No;4;JavaScript;124041,103080318
+High;Medium;Small;10;Transportation;Growth;Product Manager;Toronto;No;7;Project Management;53511,182266471
+Low;Low;Medium;1;Education;Stable;Data Scientist;San Francisco;Yes;6;Marketing;74767,081877239
+Medium;Low;Small;5;Healthcare;Growth;Operations Manager;Sydney;Yes;10;UX/UI Design;86364,494482341
+Medium;High;Medium;1;Education;Growth;Product Manager;Toronto;No;5;Machine Learning;93466,828474271
+Medium;Medium;Small;5;Healthcare;Decline;HR Manager;Paris;Yes;9;Sales;107583,526028688
+Low;Medium;Small;5;Healthcare;Growth;Marketing Specialist;Paris;Yes;1;Communication;86956,000392847
+High;High;Large;5;Healthcare;Decline;Marketing Specialist;San Francisco;No;3;Data Analysis;83680,825471087
+Medium;Low;Small;4;Finance;Decline;HR Manager;San Francisco;No;7;Project Management;112062,614121394
+Medium;Low;Medium;5;Healthcare;Decline;UX Designer;Paris;No;7;Project Management;103239,911341266
+Medium;Medium;Medium;7;Retail;Decline;HR Manager;Toronto;No;10;UX/UI Design;100779,559514021
+Medium;Low;Large;3;Entertainment;Growth;HR Manager;New York;No;6;Marketing;92250,314231762
+Medium;High;Medium;1;Education;Stable;Marketing Specialist;Dubai;No;2;Cybersecurity;109663,044218397
+High;High;Medium;8;Technology;Stable;Cybersecurity Analyst;London;Yes;1;Communication;76873,812175395
+High;Medium;Medium;2;Energy;Stable;Marketing Specialist;Sydney;Yes;10;UX/UI Design;74146,114356278
+Medium;High;Small;10;Transportation;Growth;Operations Manager;Singapore;No;9;Sales;104922,019737386
+Low;High;Small;9;Telecommunications;Decline;Data Scientist;Sydney;Yes;4;JavaScript;57499,280615062
+High;Medium;Medium;4;Finance;Stable;AI Researcher;Singapore;No;8;Python;91843,590192730
+Low;High;Large;8;Technology;Growth;Cybersecurity Analyst;Toronto;No;2;Cybersecurity;83668,832954750
+High;High;Small;6;Manufacturing;Decline;Software Engineer;Singapore;No;6;Marketing;61884,905386941
+Medium;High;Large;7;Retail;Stable;AI Researcher;San Francisco;No;3;Data Analysis;71374,648405675
+High;Low;Medium;9;Telecommunications;Decline;Data Scientist;Dubai;Yes;2;Cybersecurity;87820,478154093
+Medium;Medium;Medium;2;Energy;Stable;Operations Manager;Dubai;No;5;Machine Learning;110679,265129980
+High;Medium;Small;8;Technology;Stable;Operations Manager;San Francisco;Yes;6;Marketing;76940,840174844
+Medium;Medium;Medium;9;Telecommunications;Stable;Software Engineer;Berlin;No;4;JavaScript;114267,627998099
+Medium;Low;Small;8;Technology;Decline;Cybersecurity Analyst;Toronto;No;5;Machine Learning;91263,584551130
+Medium;Low;Medium;7;Retail;Growth;UX Designer;Berlin;No;2;Cybersecurity;116207,694043399
+Medium;Medium;Medium;2;Energy;Decline;HR Manager;Berlin;Yes;8;Python;77910,167824399
+Low;Low;Small;6;Manufacturing;Stable;Cybersecurity Analyst;Sydney;No;8;Python;89023,808237893
+Medium;Medium;Small;5;Healthcare;Decline;UX Designer;Paris;No;4;JavaScript;97369,672066740
+Low;Low;Small;1;Education;Growth;Operations Manager;Sydney;No;7;Project Management;86409,790745170
+Low;High;Medium;6;Manufacturing;Decline;Marketing Specialist;Paris;Yes;1;Communication;109060,482942904
+Medium;High;Medium;5;Healthcare;Growth;Data Scientist;London;Yes;3;Data Analysis;45848,725494195
+Low;Medium;Large;4;Finance;Growth;Software Engineer;Singapore;Yes;7;Project Management;138448,110775798
+High;Low;Small;3;Entertainment;Decline;Data Scientist;Paris;No;8;Python;107155,492139903
+Medium;Low;Medium;10;Transportation;Stable;Sales Manager;San Francisco;Yes;8;Python;86529,363419300
+Low;High;Medium;10;Transportation;Growth;Sales Manager;Sydney;No;9;Sales;78953,566528453
+Medium;High;Small;1;Education;Decline;Cybersecurity Analyst;Toronto;Yes;5;Machine Learning;72671,587771029
+Medium;Low;Large;2;Energy;Growth;Operations Manager;Singapore;Yes;2;Cybersecurity;102912,309483394
+Medium;Low;Small;7;Retail;Stable;Operations Manager;London;No;3;Data Analysis;109899,633375847
+Low;Low;Large;2;Energy;Decline;HR Manager;Paris;Yes;4;JavaScript;86749,477437402
+High;Low;Medium;7;Retail;Decline;HR Manager;London;No;2;Cybersecurity;112139,808259570
+High;Low;Large;2;Energy;Decline;HR Manager;Toronto;No;9;Sales;71854,799064778
+Low;Low;Medium;3;Entertainment;Stable;Marketing Specialist;Berlin;Yes;8;Python;68323,783000263
+Medium;Medium;Small;4;Finance;Growth;AI Researcher;Dubai;No;4;JavaScript;126266,824104910
+Low;Low;Small;4;Finance;Decline;Product Manager;Toronto;No;8;Python;101822,172270770
+Low;High;Small;5;Healthcare;Growth;AI Researcher;Tokyo;Yes;3;Data Analysis;117936,964036266
+Low;Medium;Large;9;Telecommunications;Growth;Data Scientist;Toronto;Yes;5;Machine Learning;72921,205832246
+Medium;Low;Medium;4;Finance;Stable;AI Researcher;London;No;2;Cybersecurity;71529,492164625
+Low;High;Small;4;Finance;Decline;Marketing Specialist;San Francisco;Yes;2;Cybersecurity;82827,813610849
+Medium;Medium;Small;6;Manufacturing;Growth;Data Scientist;Sydney;No;7;Project Management;73518,823169220
+Low;High;Medium;6;Manufacturing;Decline;AI Researcher;San Francisco;No;4;JavaScript;104107,304204569
+High;Low;Small;5;Healthcare;Decline;Marketing Specialist;London;Yes;1;Communication;74977,478861471
+Low;Low;Medium;9;Telecommunications;Stable;Product Manager;Sydney;Yes;9;Sales;66566,602838654
+Low;Low;Medium;1;Education;Decline;AI Researcher;Tokyo;Yes;1;Communication;92840,308245105
+High;Low;Medium;6;Manufacturing;Decline;Marketing Specialist;Dubai;Yes;7;Project Management;64200,276483496
+Medium;Medium;Medium;1;Education;Growth;HR Manager;Singapore;No;3;Data Analysis;54010,721370492
+Medium;Medium;Medium;8;Technology;Stable;Operations Manager;London;No;9;Sales;92665,144677226
+Low;High;Large;6;Manufacturing;Decline;HR Manager;Paris;Yes;5;Machine Learning;55015,599139796
+High;Low;Small;3;Entertainment;Growth;Operations Manager;London;Yes;1;Communication;105505,587925908
+Medium;High;Large;9;Telecommunications;Stable;Software Engineer;London;No;5;Machine Learning;62093,325474944
+Low;Medium;Small;5;Healthcare;Stable;Software Engineer;Sydney;No;1;Communication;45186,524271605
+High;Low;Large;8;Technology;Growth;Software Engineer;New York;No;5;Machine Learning;84124,066997184
+Medium;Low;Medium;9;Telecommunications;Growth;Product Manager;Toronto;No;1;Communication;92891,890065930
+Medium;Medium;Small;3;Entertainment;Growth;HR Manager;New York;Yes;5;Machine Learning;99829,501273639
+High;Medium;Small;9;Telecommunications;Growth;Operations Manager;Tokyo;No;7;Project Management;93440,313980317
+High;Medium;Large;3;Entertainment;Growth;Marketing Specialist;Paris;No;6;Marketing;68813,747577645
+High;Medium;Large;3;Entertainment;Decline;Data Scientist;Dubai;Yes;9;Sales;104261,223618532
+High;Medium;Small;1;Education;Decline;Marketing Specialist;Berlin;No;4;JavaScript;109202,770129594
+Low;Low;Large;2;Energy;Stable;Data Scientist;Tokyo;No;3;Data Analysis;65884,757430889
+High;Medium;Large;8;Technology;Decline;Sales Manager;Berlin;Yes;10;UX/UI Design;86379,877226808
+Medium;Low;Large;9;Telecommunications;Decline;Marketing Specialist;Berlin;Yes;8;Python;84511,199457820
+Medium;Low;Medium;7;Retail;Decline;AI Researcher;Dubai;Yes;4;JavaScript;94407,631655761
+Low;Medium;Medium;8;Technology;Growth;AI Researcher;San Francisco;No;8;Python;85901,524164518
+Medium;Medium;Large;2;Energy;Stable;Cybersecurity Analyst;New York;No;9;Sales;88642,444558540
+Medium;Low;Large;8;Technology;Stable;HR Manager;London;Yes;4;JavaScript;102836,310604833
+High;Medium;Medium;4;Finance;Stable;Data Scientist;Singapore;Yes;5;Machine Learning;67722,938007977
+Medium;Medium;Medium;7;Retail;Stable;Data Scientist;Berlin;No;5;Machine Learning;104747,462705216
+Low;Medium;Small;2;Energy;Decline;HR Manager;Paris;Yes;10;UX/UI Design;112822,654630625
+High;High;Small;1;Education;Decline;Product Manager;Tokyo;Yes;8;Python;122682,699869777
+High;Low;Medium;9;Telecommunications;Growth;Cybersecurity Analyst;San Francisco;Yes;3;Data Analysis;47132,653517253
+Low;High;Large;10;Transportation;Stable;Product Manager;Berlin;No;9;Sales;86341,966857696
+High;Medium;Large;2;Energy;Decline;Product Manager;San Francisco;No;5;Machine Learning;50697,988512928
+High;High;Large;5;Healthcare;Decline;Product Manager;San Francisco;No;6;Marketing;41298,726204544
+Low;Medium;Large;9;Telecommunications;Growth;HR Manager;Berlin;No;7;Project Management;92881,860952150
+High;High;Small;2;Energy;Growth;Product Manager;Sydney;No;7;Project Management;82016,964142993
+Low;Medium;Medium;4;Finance;Growth;AI Researcher;Toronto;No;1;Communication;95997,019035415
+Low;High;Large;10;Transportation;Decline;Software Engineer;Paris;Yes;3;Data Analysis;99722,553801746
+Medium;High;Small;4;Finance;Decline;Sales Manager;London;No;7;Project Management;114957,919162158
+Medium;High;Large;10;Transportation;Growth;Data Scientist;London;No;1;Communication;91078,408506116
+High;Low;Medium;5;Healthcare;Stable;Data Scientist;Paris;Yes;8;Python;148467,112346381
+High;High;Small;9;Telecommunications;Growth;Sales Manager;Sydney;No;5;Machine Learning;96128,197099704
+Low;Low;Medium;1;Education;Growth;HR Manager;London;No;5;Machine Learning;126849,580891344
+High;Medium;Medium;4;Finance;Growth;Marketing Specialist;San Francisco;Yes;6;Marketing;43343,243989515
+Low;High;Small;4;Finance;Growth;HR Manager;Dubai;Yes;4;JavaScript;116994,790591012
+Low;Medium;Small;3;Entertainment;Decline;Data Scientist;Tokyo;Yes;7;Project Management;86384,790204089
+High;Medium;Small;10;Transportation;Stable;Data Scientist;New York;No;8;Python;51033,054811455
+Low;High;Small;6;Manufacturing;Growth;Sales Manager;London;Yes;2;Cybersecurity;98410,902184562
+Medium;Low;Small;9;Telecommunications;Stable;Product Manager;Paris;No;7;Project Management;83940,889240314
+High;High;Small;10;Transportation;Stable;HR Manager;Dubai;No;3;Data Analysis;101601,064968962
+Medium;Medium;Small;3;Entertainment;Stable;Operations Manager;Berlin;No;4;JavaScript;110221,529151021
+High;Medium;Large;8;Technology;Growth;Sales Manager;Toronto;No;7;Project Management;60216,997664768
+Low;High;Medium;10;Transportation;Decline;AI Researcher;Paris;Yes;8;Python;110298,379649103
+High;Low;Small;1;Education;Growth;Data Scientist;San Francisco;Yes;7;Project Management;90129,589684414
+Medium;Low;Large;9;Telecommunications;Stable;Sales Manager;Toronto;No;3;Data Analysis;117056,823493865
+Low;Medium;Large;3;Entertainment;Stable;HR Manager;Tokyo;Yes;2;Cybersecurity;85897,035420043
+High;Medium;Large;8;Technology;Decline;Data Scientist;Tokyo;No;9;Sales;80591,822149372
+High;Low;Medium;7;Retail;Growth;Marketing Specialist;Sydney;No;10;UX/UI Design;90541,080813779
+High;High;Small;3;Entertainment;Stable;Sales Manager;Singapore;No;2;Cybersecurity;92037,214127597
+Medium;Medium;Large;7;Retail;Decline;Cybersecurity Analyst;Sydney;Yes;1;Communication;76744,303970165
+Medium;Low;Medium;9;Telecommunications;Stable;Data Scientist;Dubai;No;7;Project Management;80073,905380894
+High;Medium;Medium;4;Finance;Decline;HR Manager;Toronto;No;5;Machine Learning;65462,489309724
+Low;High;Medium;3;Entertainment;Decline;Software Engineer;Singapore;Yes;6;Marketing;81307,098204196
+Low;Low;Large;5;Healthcare;Growth;Operations Manager;Berlin;Yes;5;Machine Learning;103526,201199951
+Medium;Medium;Small;7;Retail;Stable;UX Designer;San Francisco;Yes;2;Cybersecurity;87252,916521877
+Low;High;Large;1;Education;Growth;Product Manager;Toronto;Yes;5;Machine Learning;110181,305920946
+Medium;Medium;Large;5;Healthcare;Stable;UX Designer;Sydney;No;8;Python;86291,410646939
+High;High;Small;2;Energy;Growth;HR Manager;New York;Yes;5;Machine Learning;61369,640045534
+Medium;High;Small;2;Energy;Stable;AI Researcher;Singapore;No;4;JavaScript;101945,497751131
+Medium;Low;Small;8;Technology;Growth;AI Researcher;Singapore;Yes;9;Sales;76527,537179332
+High;High;Medium;4;Finance;Decline;Software Engineer;San Francisco;Yes;7;Project Management;85332,654224729
+Low;Medium;Small;9;Telecommunications;Stable;Product Manager;London;Yes;5;Machine Learning;114751,440949682
+Medium;High;Large;3;Entertainment;Stable;Cybersecurity Analyst;Tokyo;Yes;3;Data Analysis;66782,590805570
+Medium;High;Small;6;Manufacturing;Decline;Software Engineer;Tokyo;Yes;9;Sales;93294,875749288
+High;Low;Large;1;Education;Growth;UX Designer;New York;Yes;9;Sales;89189,632999284
+Low;High;Medium;7;Retail;Stable;Software Engineer;Dubai;No;5;Machine Learning;104018,514308742
+Medium;High;Large;9;Telecommunications;Stable;UX Designer;Dubai;Yes;9;Sales;107103,067309640
+High;Medium;Large;5;Healthcare;Growth;Data Scientist;Berlin;Yes;6;Marketing;95276,780084978
+Medium;Low;Small;2;Energy;Decline;AI Researcher;Toronto;Yes;5;Machine Learning;82792,507068392
+High;Low;Small;1;Education;Growth;Data Scientist;Paris;Yes;8;Python;99467,450080519
+Low;Low;Large;6;Manufacturing;Growth;Operations Manager;London;No;2;Cybersecurity;116713,117942891
+Low;High;Small;3;Entertainment;Growth;Product Manager;Sydney;Yes;4;JavaScript;89454,201207206
+Low;Low;Medium;8;Technology;Stable;Cybersecurity Analyst;Paris;Yes;10;UX/UI Design;84654,877711539
+Low;High;Medium;6;Manufacturing;Decline;UX Designer;Paris;Yes;1;Communication;97763,405153360
+Medium;High;Small;1;Education;Decline;Cybersecurity Analyst;Singapore;Yes;9;Sales;90774,540407392
+Medium;Medium;Medium;6;Manufacturing;Growth;UX Designer;New York;No;8;Python;63245,811521644
+Low;Medium;Small;1;Education;Stable;HR Manager;Tokyo;Yes;7;Project Management;94786,616007950
+Low;Medium;Large;1;Education;Growth;Software Engineer;Berlin;No;7;Project Management;63064,751824725
+Low;Medium;Large;10;Transportation;Stable;Operations Manager;Dubai;Yes;1;Communication;97489,612928169
+Medium;Medium;Medium;7;Retail;Stable;AI Researcher;New York;No;4;JavaScript;74057,145511869
+Low;High;Small;2;Energy;Stable;UX Designer;Singapore;No;9;Sales;90737,496083727
+Low;High;Small;10;Transportation;Stable;Cybersecurity Analyst;Sydney;Yes;6;Marketing;97811,878123985
+Low;Low;Medium;3;Entertainment;Decline;Operations Manager;Berlin;Yes;1;Communication;139078,066918871
+High;High;Large;10;Transportation;Stable;Marketing Specialist;Singapore;No;4;JavaScript;104854,999235738
+Low;High;Medium;4;Finance;Stable;Marketing Specialist;Tokyo;No;9;Sales;117295,976194846
+High;Medium;Large;4;Finance;Growth;Data Scientist;Tokyo;Yes;8;Python;127434,956373878
+High;High;Small;2;Energy;Growth;AI Researcher;Tokyo;No;2;Cybersecurity;99785,118339989
+Low;Medium;Large;6;Manufacturing;Decline;HR Manager;New York;No;6;Marketing;95713,796005344
+High;Low;Medium;7;Retail;Growth;Cybersecurity Analyst;New York;No;10;UX/UI Design;68665,577823476
+Low;Low;Small;2;Energy;Stable;Software Engineer;Dubai;Yes;7;Project Management;87667,401351992
+Medium;High;Medium;1;Education;Growth;Software Engineer;Dubai;No;3;Data Analysis;75538,245407283
+Medium;Low;Medium;5;Healthcare;Decline;Cybersecurity Analyst;Sydney;No;8;Python;81978,822997512
+Medium;High;Large;7;Retail;Growth;Product Manager;Berlin;No;7;Project Management;127413,267523849
+Medium;Low;Medium;7;Retail;Growth;HR Manager;San Francisco;Yes;5;Machine Learning;92292,430184000
+High;Medium;Large;1;Education;Decline;Operations Manager;San Francisco;Yes;3;Data Analysis;72482,008445678
+Low;Medium;Small;1;Education;Decline;UX Designer;Singapore;No;7;Project Management;117490,669093826
+Low;Medium;Large;8;Technology;Stable;Product Manager;Tokyo;Yes;4;JavaScript;109105,509524748
+Low;Medium;Small;2;Energy;Growth;UX Designer;Berlin;No;6;Marketing;110153,069852007
+Medium;High;Large;1;Education;Stable;UX Designer;Paris;Yes;7;Project Management;49877,395937952
+Medium;Low;Medium;4;Finance;Growth;Product Manager;New York;Yes;10;UX/UI Design;128973,419154429
+Low;High;Large;3;Entertainment;Growth;Data Scientist;Toronto;No;2;Cybersecurity;78829,705158122
+Medium;Medium;Large;5;Healthcare;Stable;Marketing Specialist;London;Yes;4;JavaScript;105559,095455855
+Low;High;Small;2;Energy;Growth;UX Designer;Sydney;Yes;8;Python;140475,995812340
+Low;Low;Medium;9;Telecommunications;Growth;Product Manager;Tokyo;Yes;8;Python;133106,654963812
+Low;High;Large;4;Finance;Growth;Product Manager;Tokyo;No;8;Python;70448,757490546
+Low;Low;Medium;6;Manufacturing;Decline;Sales Manager;Tokyo;Yes;8;Python;61109,653259955
+Low;High;Large;1;Education;Stable;Data Scientist;New York;Yes;2;Cybersecurity;118606,931976958
+Low;Low;Large;9;Telecommunications;Decline;AI Researcher;New York;No;7;Project Management;92841,116231880
+Low;Low;Medium;1;Education;Stable;Sales Manager;London;Yes;9;Sales;79982,371173958
+Medium;Medium;Large;7;Retail;Stable;Sales Manager;Paris;Yes;7;Project Management;102424,370938780
+Low;Low;Medium;4;Finance;Growth;Cybersecurity Analyst;Berlin;Yes;5;Machine Learning;86742,408450811
+Low;Medium;Large;7;Retail;Stable;Marketing Specialist;Tokyo;Yes;6;Marketing;104026,482740974
+Medium;Medium;Small;8;Technology;Decline;Product Manager;San Francisco;Yes;3;Data Analysis;91339,636156375
+Medium;Medium;Medium;7;Retail;Decline;Marketing Specialist;Dubai;No;9;Sales;104447,758566563
+Medium;High;Large;8;Technology;Decline;HR Manager;San Francisco;No;9;Sales;72109,346217272
+Low;High;Large;8;Technology;Stable;Cybersecurity Analyst;Singapore;Yes;7;Project Management;118489,240262652
+High;High;Small;9;Telecommunications;Decline;AI Researcher;San Francisco;Yes;9;Sales;103952,467414648
+High;High;Medium;1;Education;Stable;Marketing Specialist;Singapore;Yes;1;Communication;102925,947388071
+Medium;Low;Large;6;Manufacturing;Decline;Software Engineer;Toronto;No;1;Communication;67646,601459760
+High;Low;Small;7;Retail;Decline;UX Designer;Dubai;No;5;Machine Learning;123992,648332884
+Medium;High;Large;4;Finance;Stable;HR Manager;San Francisco;Yes;3;Data Analysis;89725,678012675
+Low;Low;Medium;8;Technology;Decline;Data Scientist;Toronto;Yes;10;UX/UI Design;104560,977248596
+High;Low;Large;1;Education;Growth;AI Researcher;Sydney;No;2;Cybersecurity;83543,510725068
+Low;Medium;Large;5;Healthcare;Stable;HR Manager;Berlin;Yes;7;Project Management;95217,781293642
+High;Medium;Large;2;Energy;Stable;UX Designer;Toronto;No;2;Cybersecurity;95942,547042388
+Low;Medium;Large;9;Telecommunications;Stable;Cybersecurity Analyst;Berlin;No;10;UX/UI Design;33601,381359932
+High;Medium;Small;6;Manufacturing;Growth;UX Designer;San Francisco;Yes;7;Project Management;101648,962493096
+Low;Low;Small;10;Transportation;Stable;Sales Manager;Paris;No;7;Project Management;129306,829234441
+Low;High;Medium;9;Telecommunications;Decline;UX Designer;Toronto;Yes;3;Data Analysis;100795,605179839
+High;Low;Small;5;Healthcare;Decline;Sales Manager;Dubai;Yes;2;Cybersecurity;70845,835022205
+Low;Low;Small;2;Energy;Decline;Cybersecurity Analyst;San Francisco;Yes;1;Communication;102999,231323077
+Low;Low;Medium;5;Healthcare;Stable;Operations Manager;Tokyo;Yes;8;Python;111189,610603466
+Low;Medium;Small;7;Retail;Decline;Sales Manager;New York;Yes;2;Cybersecurity;100249,330323807
+High;Medium;Small;8;Technology;Stable;Data Scientist;Toronto;Yes;6;Marketing;88517,457871399
+High;Medium;Medium;6;Manufacturing;Decline;UX Designer;Dubai;No;6;Marketing;85157,015483521
+Low;High;Medium;3;Entertainment;Growth;UX Designer;Sydney;No;7;Project Management;85073,804892664
+Low;Low;Medium;8;Technology;Growth;Data Scientist;Tokyo;No;8;Python;103955,538020224
+High;High;Large;3;Entertainment;Growth;Software Engineer;Sydney;No;4;JavaScript;61857,520098807
+High;Medium;Large;2;Energy;Growth;Product Manager;San Francisco;Yes;10;UX/UI Design;82562,536782892
+Low;High;Medium;1;Education;Stable;Operations Manager;New York;No;5;Machine Learning;121912,196460218
+Low;Low;Medium;10;Transportation;Decline;AI Researcher;Toronto;No;8;Python;122683,905331543
+Low;Low;Medium;4;Finance;Growth;Sales Manager;Toronto;No;5;Machine Learning;60437,058243967
+Medium;Medium;Large;8;Technology;Stable;Data Scientist;Paris;Yes;2;Cybersecurity;67371,727774728
+High;Medium;Large;6;Manufacturing;Growth;Cybersecurity Analyst;Paris;No;2;Cybersecurity;84587,588409441
+Medium;High;Small;5;Healthcare;Growth;Sales Manager;San Francisco;Yes;5;Machine Learning;107851,790342287
+High;Medium;Small;6;Manufacturing;Stable;Product Manager;San Francisco;No;10;UX/UI Design;53450,512918940
+High;Medium;Medium;2;Energy;Stable;Cybersecurity Analyst;New York;Yes;8;Python;88903,827301650
+High;Low;Large;3;Entertainment;Decline;HR Manager;Paris;Yes;4;JavaScript;80516,416868407
+High;Medium;Large;5;Healthcare;Decline;UX Designer;Dubai;No;7;Project Management;116519,293485704
+High;Medium;Large;4;Finance;Growth;HR Manager;Dubai;Yes;3;Data Analysis;56461,830520615
+High;Low;Medium;4;Finance;Growth;Sales Manager;New York;Yes;2;Cybersecurity;91850,812309872
+High;Low;Small;8;Technology;Decline;Product Manager;Dubai;No;6;Marketing;82127,811253028
+Medium;High;Medium;2;Energy;Decline;Operations Manager;Singapore;No;10;UX/UI Design;119395,978525545
+Low;Medium;Small;1;Education;Stable;Sales Manager;Berlin;No;3;Data Analysis;101953,052927065
+Low;Low;Small;2;Energy;Decline;Data Scientist;New York;Yes;4;JavaScript;78283,686814845
+Medium;High;Medium;3;Entertainment;Decline;Marketing Specialist;New York;Yes;9;Sales;107067,728866581
+Medium;High;Small;6;Manufacturing;Growth;Sales Manager;London;Yes;7;Project Management;82223,422933829
+Medium;Medium;Small;4;Finance;Decline;UX Designer;Tokyo;No;2;Cybersecurity;109986,594224795
+Medium;Medium;Large;6;Manufacturing;Growth;UX Designer;Tokyo;Yes;7;Project Management;85258,460182288
+High;High;Small;6;Manufacturing;Decline;Sales Manager;Singapore;Yes;3;Data Analysis;111093,331575375
+Low;Low;Medium;6;Manufacturing;Stable;Cybersecurity Analyst;Paris;Yes;7;Project Management;98721,639102545
+High;High;Medium;4;Finance;Decline;Marketing Specialist;San Francisco;Yes;9;Sales;155209,821613828
+Low;Medium;Small;9;Telecommunications;Decline;Data Scientist;San Francisco;Yes;3;Data Analysis;88942,079891680
+Low;Low;Large;7;Retail;Decline;Sales Manager;Sydney;Yes;2;Cybersecurity;97657,245832429
+Medium;Low;Large;3;Entertainment;Growth;Cybersecurity Analyst;Singapore;Yes;8;Python;80411,505165681
+High;High;Small;9;Telecommunications;Stable;UX Designer;New York;No;6;Marketing;90053,706815096
+Medium;Medium;Small;3;Entertainment;Decline;UX Designer;Singapore;No;3;Data Analysis;35963,297317011
+High;High;Medium;5;Healthcare;Growth;Product Manager;Singapore;No;1;Communication;99311,680330821
+Low;High;Small;2;Energy;Stable;Sales Manager;Singapore;Yes;9;Sales;116857,484258988
+Medium;High;Large;2;Energy;Growth;Marketing Specialist;Tokyo;Yes;3;Data Analysis;97932,600091987
+Medium;Low;Small;10;Transportation;Growth;Software Engineer;Singapore;No;3;Data Analysis;63722,770840452
+Low;Low;Medium;2;Energy;Stable;Marketing Specialist;Berlin;Yes;1;Communication;73964,256945820
+Low;Medium;Medium;4;Finance;Decline;UX Designer;San Francisco;No;2;Cybersecurity;41396,157456875
+Low;Medium;Medium;1;Education;Growth;UX Designer;Sydney;Yes;3;Data Analysis;109578,480137308
+Medium;High;Medium;8;Technology;Growth;HR Manager;Berlin;Yes;6;Marketing;69869,734145808
+High;High;Medium;10;Transportation;Decline;UX Designer;Sydney;No;7;Project Management;89425,828195755
+Medium;High;Small;8;Technology;Decline;Data Scientist;London;No;2;Cybersecurity;86925,248553456
+High;Medium;Small;3;Entertainment;Stable;AI Researcher;Sydney;No;6;Marketing;119754,540713165
+Medium;Low;Small;8;Technology;Stable;Sales Manager;San Francisco;No;2;Cybersecurity;91705,626359315
+Medium;Low;Small;8;Technology;Stable;Marketing Specialist;San Francisco;No;6;Marketing;106177,858402120
+Low;High;Medium;10;Transportation;Decline;AI Researcher;Singapore;Yes;9;Sales;100929,275282953
+High;High;Large;5;Healthcare;Growth;Cybersecurity Analyst;Toronto;Yes;6;Marketing;117188,228399227
+Medium;High;Small;6;Manufacturing;Growth;Software Engineer;London;Yes;5;Machine Learning;85217,526109941
+Medium;High;Large;2;Energy;Stable;Data Scientist;New York;No;6;Marketing;127392,306610090
+Low;Medium;Small;2;Energy;Decline;Marketing Specialist;Dubai;No;8;Python;50286,756872014
+Low;Low;Small;4;Finance;Growth;AI Researcher;Sydney;No;8;Python;107149,469960024
+High;High;Large;10;Transportation;Stable;Software Engineer;Toronto;No;10;UX/UI Design;72667,607826717
+Medium;Medium;Medium;4;Finance;Growth;HR Manager;Singapore;No;5;Machine Learning;80145,008944401
+High;High;Small;1;Education;Growth;Data Scientist;Tokyo;No;5;Machine Learning;101388,285338020
+Medium;High;Small;1;Education;Decline;Data Scientist;New York;Yes;7;Project Management;101228,040996954
+High;Low;Small;4;Finance;Decline;HR Manager;Paris;Yes;5;Machine Learning;102128,560273801
+Low;High;Large;10;Transportation;Growth;Sales Manager;Toronto;Yes;7;Project Management;62276,841117895
+Medium;Low;Medium;4;Finance;Stable;HR Manager;Tokyo;Yes;10;UX/UI Design;118980,604625584
+High;Low;Large;2;Energy;Decline;Data Scientist;London;Yes;10;UX/UI Design;71987,057635446
+Low;Low;Large;9;Telecommunications;Growth;Data Scientist;Singapore;No;9;Sales;74654,258195496
+Low;Medium;Medium;7;Retail;Decline;AI Researcher;New York;No;8;Python;102757,934763336
+High;Medium;Large;8;Technology;Decline;UX Designer;New York;No;6;Marketing;84265,576504775
+Medium;Low;Medium;7;Retail;Decline;Software Engineer;New York;No;6;Marketing;96165,216811250
+Medium;High;Small;10;Transportation;Growth;HR Manager;London;No;1;Communication;46867,986067344
+Low;Low;Medium;7;Retail;Stable;Software Engineer;Sydney;No;1;Communication;95686,488990385
+Medium;High;Small;1;Education;Stable;HR Manager;Paris;Yes;4;JavaScript;94356,637590244
+Medium;Low;Large;3;Entertainment;Stable;Cybersecurity Analyst;London;No;2;Cybersecurity;79802,829244714
+Medium;High;Large;8;Technology;Decline;Data Scientist;Dubai;No;9;Sales;48518,480804704
+Low;Medium;Small;6;Manufacturing;Growth;UX Designer;Paris;No;4;JavaScript;85743,834770368
+High;High;Large;10;Transportation;Decline;AI Researcher;San Francisco;No;4;JavaScript;89252,522804028
+Medium;Low;Medium;8;Technology;Stable;UX Designer;Singapore;Yes;3;Data Analysis;82655,420193390
+Low;Medium;Small;7;Retail;Stable;UX Designer;London;Yes;3;Data Analysis;53276,510711350
+Low;High;Large;1;Education;Growth;UX Designer;Tokyo;No;4;JavaScript;121894,680146338
+High;High;Small;5;Healthcare;Decline;Software Engineer;Paris;Yes;5;Machine Learning;77222,769441113
+Medium;High;Medium;9;Telecommunications;Stable;HR Manager;Dubai;Yes;2;Cybersecurity;85555,906741542
+Medium;High;Medium;6;Manufacturing;Growth;Operations Manager;San Francisco;No;9;Sales;41810,513575634
+High;High;Large;9;Telecommunications;Decline;Cybersecurity Analyst;Sydney;No;4;JavaScript;121897,106973964
+High;Medium;Medium;8;Technology;Decline;Marketing Specialist;Tokyo;No;6;Marketing;80669,001365319
+Low;Medium;Small;1;Education;Stable;UX Designer;Paris;No;2;Cybersecurity;91969,256341484
+Low;Medium;Medium;1;Education;Stable;Sales Manager;Singapore;No;3;Data Analysis;112414,748896333
+High;Medium;Small;7;Retail;Decline;Software Engineer;Tokyo;Yes;6;Marketing;76473,915905667
+Medium;Low;Small;2;Energy;Decline;AI Researcher;San Francisco;No;3;Data Analysis;109264,899747730
+Low;Medium;Medium;7;Retail;Stable;Marketing Specialist;Tokyo;No;3;Data Analysis;48773,490881177
+Low;High;Large;2;Energy;Decline;Operations Manager;Berlin;No;2;Cybersecurity;101019,733151426
+Medium;High;Medium;2;Energy;Stable;Sales Manager;Toronto;Yes;3;Data Analysis;121444,843330393
+Low;Medium;Small;6;Manufacturing;Decline;Operations Manager;Sydney;No;10;UX/UI Design;78391,663055639
+Medium;High;Small;7;Retail;Stable;Marketing Specialist;San Francisco;No;8;Python;112377,632405967
+Medium;Medium;Medium;5;Healthcare;Growth;UX Designer;Tokyo;No;10;UX/UI Design;126678,453043875
+Medium;High;Large;4;Finance;Stable;Sales Manager;Toronto;Yes;8;Python;84903,163238920
+High;Low;Large;4;Finance;Stable;Operations Manager;Toronto;No;1;Communication;83249,434283003
+High;Low;Small;7;Retail;Growth;AI Researcher;Tokyo;No;1;Communication;72034,125083354
+High;Medium;Small;7;Retail;Decline;HR Manager;Singapore;No;3;Data Analysis;79805,396896297
+Medium;Medium;Large;9;Telecommunications;Growth;Data Scientist;Berlin;Yes;9;Sales;73692,802194548
+Medium;Medium;Medium;6;Manufacturing;Stable;HR Manager;London;No;9;Sales;72017,778031455
+High;High;Small;7;Retail;Decline;Marketing Specialist;Berlin;No;8;Python;113976,705934227
+Low;Medium;Small;9;Telecommunications;Growth;Software Engineer;Tokyo;No;6;Marketing;74201,479494235
+Medium;Low;Large;2;Energy;Decline;Data Scientist;Sydney;Yes;2;Cybersecurity;95170,438294392
+Low;High;Medium;1;Education;Decline;Cybersecurity Analyst;London;No;3;Data Analysis;90764,668704325
+Low;Medium;Large;1;Education;Growth;AI Researcher;San Francisco;No;2;Cybersecurity;119961,891251422
+Medium;High;Medium;2;Energy;Decline;Cybersecurity Analyst;Berlin;No;10;UX/UI Design;79936,875358900
+Medium;High;Medium;10;Transportation;Growth;Sales Manager;Tokyo;Yes;9;Sales;97622,960933086
+Low;Medium;Medium;9;Telecommunications;Stable;Data Scientist;Berlin;Yes;5;Machine Learning;105821,394045522
+Low;High;Small;9;Telecommunications;Decline;Cybersecurity Analyst;London;No;10;UX/UI Design;119794,992146411
+High;Low;Large;2;Energy;Stable;Cybersecurity Analyst;Dubai;Yes;10;UX/UI Design;79644,933099095
+High;Low;Large;5;Healthcare;Stable;Operations Manager;Paris;Yes;8;Python;77642,150625352
+Medium;High;Medium;3;Entertainment;Decline;HR Manager;Berlin;Yes;7;Project Management;68764,378920799
